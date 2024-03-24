@@ -21,4 +21,4 @@ To run the SQL queries in this repository, you will need access to a SQL databas
 
 ## Acknowledgements
 - The data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/).
-- This project is for educational purposes and was created as part of a data analysis course.
+- This project is for educational purposes
