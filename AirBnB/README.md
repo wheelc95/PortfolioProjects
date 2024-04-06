@@ -11,7 +11,7 @@ This repository contains SQL queries and analysis scripts for cleaning and analy
 ## Running the Queries
 To run the SQL queries in this repository, you will need access to a SQL database management system such as MySQL, PostgreSQL, or SQL Server. Follow these steps:
 1. Download or clone this repository to your local machine.
-2. Import the CSV files in the `data/` directory into your SQL database.
+2. Import the CSV files in the `AirBnBRawData/` directory into your SQL database.
 3. Open `queries.sql` and execute the queries against your database.
 
 ## Analysis Highlights
