@@ -40,10 +40,10 @@ These elements provide insights into the sales trends, profitability, and operat
 
 - 2014 had the most sales.
 - Sales are spread all across the USA.
-- Spending more in marketing does not always equate to stronger sales and profit
-- The average COGs for every market was more than the target COGs
-- The major regular market accounts for most sales
-- The bean product line accounts for approximately 7% more than the leaves product line
+- Spending more in marketing does not always equate to stronger sales and profit.
+- The average COGs for every market was more than the target COGs.
+- The major regular market accounts for most sales.
+- The bean product line accounts for approximately 7% more than the leaves product line.
 
 ## Getting Started
 
