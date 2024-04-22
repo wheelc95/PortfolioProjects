@@ -14,3 +14,6 @@ This project involves cleaning a dataset of housing sales records, which include
 1. Import the `HousingData.csv` into your SQL database.
 2. Execute the `clean_housing_data.sql` script to perform data cleaning.
 
+## Acknowledgements
+- The data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/).
+- This project is for educational purposes
