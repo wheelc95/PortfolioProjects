@@ -35,4 +35,8 @@ Ensure you have the following software installed:
 - **Applying Filters**: Use the dropdown menus to select different regions, platforms, publishers, and years to customize the data views.
 - **Viewing Charts**: Navigate through different sheets to view each visualization. The data will update based on the filters applied.
 
+### Acknowledgements
+
+- The data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/).
+- This project is for educational purposes
 
