@@ -54,3 +54,8 @@ To run these scripts and view the dashboard:
 3. Load the cleaned data into Power BI.
 4. Open the `.pbix` file included in the repository to access the pre-built dashboard.
 
+## Acknowledgements
+
+- The data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/).
+- This project is for educational purposes
+
